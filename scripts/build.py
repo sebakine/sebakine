@@ -71,7 +71,7 @@ SECCIONES = [
 ]
 
 PROYECTOS = [
-    dict(slug="eventos-inscripciones-api", titulo="Eventos e Inscripciones API",
+    dict(slug="entrega-5-backend-2-coderhouse", titulo="Eventos e Inscripciones API",
          categoria="BACKEND · SEGURIDAD", acento="copper",
          desc="API de eventos con JWT en cookie HttpOnly y autorización por roles (user, organizer, admin). Validación con Zod, Helmet, rate limiting, tests y CI.",
          tags=["Node.js", "Express", "MongoDB", "Zod", "GitHub Actions"], curso="Programación Backend II"),

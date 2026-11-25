@@ -85,7 +85,7 @@
 </picture>
 
 <p align="center">
-  <a href="https://github.com/sebakine/eventos-inscripciones-api"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/eventos-inscripciones-api-dark.svg"><img alt="Eventos e Inscripciones API: JWT en cookie HttpOnly, roles, Zod, Helmet, rate limiting, tests y CI" src="assets/projects/eventos-inscripciones-api-light.svg" width="49%"></picture></a>
+  <a href="https://github.com/sebakine/entrega-5-backend-2-coderhouse"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/entrega-5-backend-2-coderhouse-dark.svg"><img alt="Eventos e Inscripciones API: JWT en cookie HttpOnly, roles, Zod, Helmet, rate limiting, tests y CI" src="assets/projects/entrega-5-backend-2-coderhouse-light.svg" width="49%"></picture></a>
   <a href="https://github.com/sebakine/adoptme-api"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/adoptme-api-dark.svg"><img alt="Adoptme API: Swagger, pruebas funcionales y Docker" src="assets/projects/adoptme-api-light.svg" width="49%"></picture></a>
 </p>
 <p align="center">
